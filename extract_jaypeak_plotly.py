@@ -1,9 +1,4 @@
 
-#!/usr/bin/env python3
-"""
-Extrait Jay Peak par coordonnées GPS connues
-"""
-
 import rasterio
 from rasterio.windows import from_bounds
 from pyproj import Transformer

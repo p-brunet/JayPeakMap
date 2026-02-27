@@ -5,7 +5,7 @@ from pyproj import Transformer
 
 S3_URL = "/vsicurl/https://s3.us-east-2.amazonaws.com/vtopendata-prd/_Other/Projects/2023_Lidar/PreliminaryData/Northern/Northern_2023_35cm_DSMFR.tif"
 BUFFER_KM = 8
-OUTPUT_FILE = "jay_peak_region_{BUFFER_KM}.tif"
+OUTPUT_FILE = "data/jay_peak_region_{BUFFER_KM}.tif"
 
 JAY_PEAK_LAT = 44.924384
 JAY_PEAK_LON = -72.511729

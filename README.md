@@ -48,7 +48,8 @@ numpy
 High-resolution PNG at 300 DPI, sized for standard poster formats (e.g. 24×36 in). Suitable for both print and web sharing.
 ![Jay Peak Contour Map](./jay_peak_contour.png)
 
-Final poster edited with tier software:
+Final poster edited with tier software.
+
 ![Jay Peak Contour Map](./jay_peak_poster.png)
 
 ## License
